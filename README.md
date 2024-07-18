@@ -1,2 +1,2 @@
 # python-c-metaclass
- Python C extension metaclass test.
+Python C extension metaclass test.
