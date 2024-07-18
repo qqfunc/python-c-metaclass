@@ -3,7 +3,7 @@
 
 typedef struct {
     PyTypeObject type;
-    int value;
+    long value;
 } MetaObject;
 
 PyTypeObject MetaObjectType = {
